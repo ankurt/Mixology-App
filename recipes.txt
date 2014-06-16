@@ -1,0 +1,23 @@
+allIngredients:grenadine,green chatreuse,yellow chartreuse,creme de yvette,passion fruit juice,unsw pineapple juice,soda,brandy,bourbon,whiskey,vodka,lemon juice,orange juice,white rum,gin,cola,italian sweet vermouth,fresh cream,french sweet vermouth,creme de cacao,scotch,jamaica rum,apricot brandy,white creme de menthe,de merara rum,galliano liquer,kahlua,lime juice,coconut creme,sloe gin,cherry brandy,tequila,tomato juice,triple sec,champagne,drambue,ice tea,tonic,cherry juice,water,stou orange,milk,sweet and sour mix,red cherry*,orange chunk*,crushed ice cube*,lime chunk*,lemon chunk*,green olive*,white onion*,dash angostura bitters*,ice cube*,tsp fine sugar*,sugar cube*,lemon peel*,mint sprig*,pineapple chunk*,dash worcestershire sauce*,celery stick*,segment sword*,
+Old Fashioned_oldfashioned_sugar cube*,1:dash worcestershire sauce*,1:whiskey,1.5:soda,6.5:_oldfashioned_8_Stir or Mix Assembly. Just the classic.
+Margarita_margarita_tequila,1:triple sec,1:lemon juice,1:_oldfashioned_3_Shake assembly with cracked ice and remove. Use a salt glass rim.
+Zombie_zombie_passion fruit juice,1:unsw pineapple juice,1:vodka,1:orange juice,1:apricot brandy,0.5:white rum,2.5:tsp fine sugar*,1:jamaica rum,1:red cherry*,1:lime chunk*,1:mint sprig*,2:151 rum,.5:_collins_12_Shake assembly with cracked ice except for 151 Rum, and float 151 Rum on top.
+Tom Collins_tomcollins_lemon juice,0.75:gin,3:soda,8.25:ice cube*,3:fine sugar*,1:red cherry*,1:orange chunk*,1:_collins_12_Place orange chunk on glass.
+Martini_martini_gin,1.5:french sweet vermouth,0.75:green olive*,1:_martini_2.25_Stir assembly with cracked ice.
+Rum and Cola_rumandcola_white rum,1.5:cola,10.5:lime chunk*,1:ice cube*,3_collins_12_Stir or mix assembly.
+Pina Colada_pinacolada_cocunut creme,2:white rum,1:unsw pineapple juice,2:tsp fine sugar*,1:red cherry*,1:pineapple chunk*,1:_highball_8_Shake assembly with cracked ice and then remove.
+John Collins_johncollins_whiskey,1.5:lemon juice,2.5:red cherry*,1.0:ice cube*,3.0:orange chunk*,1.0:soda,8.0:_collins_12.0_Enjoy!
+Manly Drink_manlydrink_vodka,4.5:tequila,4.5:soda,7.0:grenadine,2.0:_collins_18.0_Drink in under 6 seconds otherwise you aren't a man.
+Screwdriver_screwdriver_vodka,1.5:orange juice,4.5:ice cube*,2:_highball_6_Stir or Mix Assembly
+Gin and Tonic_ginandtonic_gin,2:tonic,6:ice cube*,2:_oldfashioned_8_Stir or Mix Assembly
+Bloody Mary_bloodymary_vodka,1.5:tomato juice,4.5:celery stick*,1.0:dash angostura bitters*,1.0:ice cube*,2.0:_collins_6.0_Stir or Mix Assembly. Salt, Pepper, and Hot Sauce should be added according to taste.
+Daiquiri_daiquiri_white rum,1.5:lemon juice,0.8:tsp fine sugar*,1.0:_collins_2.25_Shake assembly with cracked ice and remove.
+Singapore Slingshot_singaporeslingshot_gin,1.5:sloe gin,0.8:cherry brandy,0.8:lemon juice,0.8:lemon chunk*,1.0:_collins_12.0_Shake assembly with cracked ice and remove.
+Whiskey Sour_whiskeysour_lemon juice,0.8:whiskey,1.5:red cherry*,1.0:tsp fine sugar*,1.0:orange chunk*,1.0:_collins_2.25_Shake assembly with cracked ice and remove.
+Gin Fizz_ginfizz_gin,2.0:lemon juice,0.5:soda,3.5:tsp fine sugar*,1.0:_collins_6.0_Stir or Mix Assembly
+Bhangra ginders_bhangraginders_cocunut creme,2.0:white rum,1.0:unsw pineapple juice,2.0:tsp fine sugar*,1.0:red cherry*,1.0:pineapple chunk*,1.0:cola,3.0:_highball_8.0_Shake assembly with cracked ice and then remove.
+
+Mommy_mommy_vodka,1.0:tomato juice,1.5:celery stick*,1.0:dash angostura bitters*,1.0:ice cube*,2.0:cola,1.0:_collins_6.0_Stir or Mix Assembly. Salt, Pepper, and Hot Sauce should be added according to taste.
+
+Gin and Tonic_ginandtonic_gin,2.0:tonic,6.0:ice cube*,2.0:_oldfashioned_8.0_Stir or Mix Assembly
+
